@@ -1,22 +1,21 @@
-#searchform {
-
-}
-
 body{
     text-align: center;
-    margin-top: 200px;
+    margin-top: 100px;
     font-family: sans-serif !important;
     font-size: 12px;
 }
 
 #logo{
-    width: 270px;
-    height: 90px;
+    width: 500px;
+    height: 200px;
 }
 
 #search-bar{
-    width: 560px;
-    height: 34px;
+    width: 584px;
+    height: 44px;
+    margin-top: 20px;
+    border: none;
+    box-shadow: 2px 2px 2px 2px #8888;
 }
 
 .top-bar a {
@@ -27,6 +26,8 @@ body{
 #about {
     right:1540px; 
     text-decoration: none;
+    color: black;
+    opacity: 0.75;
     
 }
 
@@ -34,6 +35,7 @@ body{
     right:1490px; 
     text-decoration: none;
     color: black;
+    opacity: 0.75;
     
 }
 
@@ -41,6 +43,7 @@ body{
     left: 1330px;
     color: black;
     text-decoration: none;
+    opacity: 0.75;
 
 }
 
@@ -48,6 +51,7 @@ body{
     left: 1380px;
     color: black;
     text-decoration: none;
+    opacity: 0.75;
 }
 
 a:visited {
@@ -63,9 +67,28 @@ a:active{
 
 .google-search {
     height: 36px;
+    margin-top: 35px;
+    font-weight: bold;
+    margin-right: 4px;
+    padding: 0px 16px;
+    border: 1px solid #f2f2f2;
+    color: #907575;
+    
+}
+
+.lucky {
+    height: 36px;
+    margin-top: 35px;
+    margin-left: 4px;
+    font-weight: bold;
+    padding: 0px 16px;
+    border: 1px solid #f2f2f2;
+    color: #907575;
     
 }
 
 input:hover {
-    text-emphasis: bold;
+    color: black;
+    background-color: #f2f2f2;
+    border: 1px solid gray;
 }
