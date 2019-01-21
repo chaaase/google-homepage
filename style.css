@@ -1,3 +1,18 @@
 #searchform {
-    position: fixed;
+
+}
+
+body{
+    text-align: center;
+    margin-top: 300px;
+}
+
+#logo{
+    width: 270px;
+    height: 90px;
+}
+
+#search-bar{
+    width: 560px;
+    height: 34px;
 }
