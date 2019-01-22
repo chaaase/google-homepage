@@ -72,10 +72,19 @@ body{
     background-image: url('https://dylanhamada.github.io/google-homepage/sprite.png');
     width: 30px;
     height: 30px;
-    right: 135px;
+    right: 140px;
     background-position: 400px -35px;
     background-size: 528px 68px;
+    opacity: 0.65;
+    top: 15px;
+}
+
+#apps:hover {
     opacity: 1.0;
+}
+
+#celebrate {
+    margin-top: 25px;
 }
 
 a:visited {
