@@ -21,7 +21,8 @@ body{
 .top-bar a {
     position: absolute;
     top: 25px;
-   }
+    text-align: inline;
+}
 
 #about {
     right:1540px; 
@@ -52,6 +53,29 @@ body{
     color: black;
     text-decoration: none;
     opacity: 0.75;
+}
+
+#sign-in {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    text;
+    left: 1475px;
+    width: 75px;
+    height: 25px;
+    padding-top: 5px;
+    top: 19px;
+    opacity: 0.55;
+}
+
+#apps {
+    background-image: url('https://dylanhamada.github.io/google-homepage/sprite.png');
+    width: 30px;
+    height: 30px;
+    right: 135px;
+    background-position: 400px -35px;
+    background-size: 528px 68px;
+    opacity: 1.0;
 }
 
 a:visited {
