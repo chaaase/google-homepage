@@ -79,10 +79,6 @@ body{
     top: 15px;
 }
 
-#apps:hover {
-    opacity: 1.0;
-}
-
 #celebrate {
     margin-top: 25px;
 }
@@ -140,6 +136,8 @@ footer {
     margin-top: 15px;
     opacity: 0.5;
     position: absolute;
+    text-decoration: none;
+    color: black;
 }
 
 #business {
@@ -147,6 +145,8 @@ footer {
     margin-top: 15px;
     opacity: 0.5;
     position: absolute;
+    text-decoration: none;
+    color: black;
 }
 
 #privacy {
@@ -154,6 +154,8 @@ footer {
     margin-top: 15px;
     opacity: 0.5;
     position: absolute;
+    text-decoration: none;
+    color: black;
 }
 
 #terms {
@@ -161,6 +163,8 @@ footer {
     margin-top: 15px;
     opacity: 0.5;
     position: absolute;
+    text-decoration: none;
+    color: black;
 }
 
 #settings {
@@ -168,4 +172,6 @@ footer {
     margin-top: 15px;
     opacity: 0.5;
     position: absolute;
+    text-decoration: none;
+    color: black;
 }
