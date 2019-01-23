@@ -125,3 +125,47 @@ input:hover {
     background-color: #f2f2f2;
     border: 1px solid gray;
 }
+
+footer {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    background-color: #f4f4f4;
+    height: 40px;
+    
+}
+
+#advertising {
+    left: 20px;
+    margin-top: 15px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+#business {
+    left: 110px;
+    margin-top: 15px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+#privacy {
+    right: 175px;
+    margin-top: 15px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+#terms {
+    right: 120px;
+    margin-top: 15px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+#settings {
+    right: 50px;
+    margin-top: 15px;
+    opacity: 0.5;
+    position: absolute;
+}
